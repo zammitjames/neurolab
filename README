@@ -3,7 +3,7 @@ Contains based neural networks, train algorithms and flexible framework
 to create and explore other neural network types.
 
 
-:Features:
+##Features:
 
     - Pure python + numpy
     - API like Neural Network Toolbox (NNT) from MATLAB
@@ -11,9 +11,8 @@ to create and explore other neural network types.
     - Flexible network configurations and learning algorithms. You may change: train, error, initializetion and activation functions
     - Unlimited number of neural layers and number of neurons in layers
     - Variety of supported types of Artificial Neural Network and learning algorithms
-
-:Example:
-
+    
+##Example:
 	>>> import numpy as np
 	>>> import neurolab as nl
 	>>> # Create train samples
@@ -31,14 +30,15 @@ to create and explore other neural network types.
 	>>> net.sim([[0.2, 0.1]]) # 0.2 + 0.1
 	array([[ 0.28757596]])
 
-:Links:
+
+##Links:
 
     - `Home Page <http://code.google.com/p/neurolab/>`_
     - `PyPI Page <http://pypi.python.org/pypi/neurolab>`_
     - `Documentation <http://packages.python.org/neurolab/>`_
     - `Examples <http://packages.python.org/neurolab/example.html>`_
 
-:Install:
+##Install:
 
 	Install *neurolab* using setuptools/distribute::
 
