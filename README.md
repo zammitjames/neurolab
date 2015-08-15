@@ -33,7 +33,6 @@ to create and explore other neural network types.
 
 ##Links:
 
-    - `Home Page <http://code.google.com/p/neurolab/>`_
     - `PyPI Page <http://pypi.python.org/pypi/neurolab>`_
     - `Documentation <http://packages.python.org/neurolab/>`_
     - `Examples <http://packages.python.org/neurolab/example.html>`_
